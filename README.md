@@ -8,3 +8,9 @@ Online judge system - https://judge.softuni.org/
 ## Table of Contents:
 
 ➡[First Steps In Coding - Lab](https://github.com/GeorgiDN/JS-Programing-Basics/tree/main/first_steps_in_coding_lab)
+
+➡[First Steps In Coding - Exercise](https://github.com/GeorgiDN/JS-Programing-Basics/tree/main/first_steps_in_coding_exercise)
+
+➡[Conditional Statement - Lab](https://github.com/GeorgiDN/JS-Programing-Basics/tree/main/conditional_statements_lab)
+
+➡[Conditional Statement Advanced](https://github.com/GeorgiDN/JS-Programing-Basics/tree/main/conditional_statement_advanced)
