@@ -14,3 +14,5 @@ Online judge system - https://judge.softuni.org/
 ➡[Conditional Statement - Lab](https://github.com/GeorgiDN/JS-Programing-Basics/tree/main/conditional_statements_lab)
 
 ➡[Conditional Statement Advanced](https://github.com/GeorgiDN/JS-Programing-Basics/tree/main/conditional_statement_advanced)
+
+➡[For Loop Lab](https://github.com/GeorgiDN/JS-Programing-Basics/tree/main/for_loops_lab)
