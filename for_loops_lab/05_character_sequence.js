@@ -8,12 +8,12 @@ function characterSequence(input) {
 // characterSequence(["softuni"])
 
 
-// function characterSequence(input) {
-//     let text = input[0]
-//     for (let i = 0; i < text.length; i++) {
-//         let letter = text[i]
-//         console.log(letter)
-//     }
-// }
+function characterSequence2(input) {
+    let text = input[0]
+    for (let i = 0; i < text.length; i++) {
+        let letter = text[i]
+        console.log(letter)
+    }
+}
 
 

@@ -23,28 +23,28 @@ function numbersDivisibleToNine(input) {
 
 
 // Runtime JUDGE
-// function sum(arr) {
-//     return arr.reduce((acc, num) => acc + num, 0)
-// }
+function sum(arr) {
+    return arr.reduce((acc, num) => acc + num, 0)
+}
+
+function numbersDivisibleToNine2(input) {
+    let start = Number(input[0])
+    let end = Number(input[1])
+    let myList = []
+
+    for (let num = start; num <= end; num++) {
+        if (num % 9 === 0) {
+            myList.push(num)
+        }
+    }
+
+    let totalSum = sum(myList)
+    console.log(`The sum: ${totalSum}`)
+
+    for (let num of myList) {
+        console.log(num)
+    }
+}
 //
-// function numbersDivisibleToNine(input) {
-//     let start = Number(input[0])
-//     let end = Number(input[1])
-//     let myList = []
-//
-//     for (let num = start; num <= end; num++) {
-//         if (num % 9 === 0) {
-//             myList.push(num)
-//         }
-//     }
-//
-//     let totalSum = sum(myList)
-//     console.log(`The sum: ${totalSum}`)
-//
-//     for (let num of myList) {
-//         console.log(num)
-//     }
-// }
-//
-// // numbersDivisibleToNine(["100", "200"])
+// // numbersDivisibleToNine2(["100", "200"])
 
